@@ -2,8 +2,15 @@ canvas{
   width: 100%;
   height: 100%;
   background-color: black;
+  padding-bottom: 1px;
 }
 html , body {
   height: 100%;
   margin: 0;
+}
+#input{
+  background-color: black;
+  color: black;
+  margin: 0;
+  width: 100%;
 }
