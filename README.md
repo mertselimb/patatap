@@ -1,3 +1,3 @@
 # patatap
 
-Up at : mertselimb.me/patapap
+Up at : https://mertselimb.me/patapap
